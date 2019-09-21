@@ -1,0 +1,12 @@
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.CheckoutService.Model\bin\Release\netstandard2.0\ECommerce.CheckoutService.Model.deps.json
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.CheckoutService.Model\bin\Release\netstandard2.0\ECommerce.CheckoutService.Model.dll
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.CheckoutService.Model\bin\Release\netstandard2.0\ECommerce.CheckoutService.Model.pdb
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.CheckoutService.Model\bin\Release\netstandard2.0\ECommerce.ProductCatalog.Model.dll
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.CheckoutService.Model\bin\Release\netstandard2.0\ECommerce.ProductCatalog.Model.pdb
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.CheckoutService.Model\obj\Release\netstandard2.0\ECommerce.CheckoutService.Model.csprojAssemblyReference.cache
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.CheckoutService.Model\obj\Release\netstandard2.0\ECommerce.CheckoutService.Model.csproj.CoreCompileInputs.cache
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.CheckoutService.Model\obj\Release\netstandard2.0\ECommerce.CheckoutService.Model.AssemblyInfoInputs.cache
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.CheckoutService.Model\obj\Release\netstandard2.0\ECommerce.CheckoutService.Model.AssemblyInfo.cs
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.CheckoutService.Model\obj\Release\netstandard2.0\ECommerce.CheckoutService.Model.csproj.CopyComplete
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.CheckoutService.Model\obj\Release\netstandard2.0\ECommerce.CheckoutService.Model.dll
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.CheckoutService.Model\obj\Release\netstandard2.0\ECommerce.CheckoutService.Model.pdb
