@@ -1,0 +1,9 @@
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.ProductCatalog.Model\bin\Debug\netstandard2.0\ECommerce.ProductCatalog.Model.deps.json
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.ProductCatalog.Model\bin\Debug\netstandard2.0\ECommerce.ProductCatalog.Model.dll
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.ProductCatalog.Model\bin\Debug\netstandard2.0\ECommerce.ProductCatalog.Model.pdb
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.ProductCatalog.Model\obj\Debug\netstandard2.0\ECommerce.ProductCatalog.Model.csprojAssemblyReference.cache
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.ProductCatalog.Model\obj\Debug\netstandard2.0\ECommerce.ProductCatalog.Model.csproj.CoreCompileInputs.cache
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.ProductCatalog.Model\obj\Debug\netstandard2.0\ECommerce.ProductCatalog.Model.AssemblyInfoInputs.cache
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.ProductCatalog.Model\obj\Debug\netstandard2.0\ECommerce.ProductCatalog.Model.AssemblyInfo.cs
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.ProductCatalog.Model\obj\Debug\netstandard2.0\ECommerce.ProductCatalog.Model.dll
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce.ProductCatalog.Model\obj\Debug\netstandard2.0\ECommerce.ProductCatalog.Model.pdb

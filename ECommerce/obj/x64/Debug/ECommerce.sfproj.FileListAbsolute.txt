@@ -1,0 +1,1 @@
+C:\Users\zotadic\Documents\My Service Fabric\ECommerce\obj\x64\Debug\ECommerce.sfproj.CoreCompileInputs.cache

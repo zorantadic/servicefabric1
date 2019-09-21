@@ -1,0 +1,17 @@
+C:\Users\zotadic\Documents\My Service Fabric\UserActor\bin\Release\netcoreapp2.2\win7-x64\hostpolicy.dll
+C:\Users\zotadic\Documents\My Service Fabric\UserActor\bin\Release\netcoreapp2.2\win7-x64\hostfxr.dll
+C:\Users\zotadic\Documents\My Service Fabric\UserActor\bin\Release\netcoreapp2.2\win7-x64\UserActor.exe
+C:\Users\zotadic\Documents\My Service Fabric\UserActor\bin\Release\netcoreapp2.2\win7-x64\UserActor.deps.json
+C:\Users\zotadic\Documents\My Service Fabric\UserActor\bin\Release\netcoreapp2.2\win7-x64\UserActor.runtimeconfig.json
+C:\Users\zotadic\Documents\My Service Fabric\UserActor\bin\Release\netcoreapp2.2\win7-x64\UserActor.runtimeconfig.dev.json
+C:\Users\zotadic\Documents\My Service Fabric\UserActor\bin\Release\netcoreapp2.2\win7-x64\UserActor.dll
+C:\Users\zotadic\Documents\My Service Fabric\UserActor\bin\Release\netcoreapp2.2\win7-x64\UserActor.pdb
+C:\Users\zotadic\Documents\My Service Fabric\UserActor\bin\Release\netcoreapp2.2\win7-x64\UserActor.Interfaces.dll
+C:\Users\zotadic\Documents\My Service Fabric\UserActor\bin\Release\netcoreapp2.2\win7-x64\UserActor.Interfaces.pdb
+C:\Users\zotadic\Documents\My Service Fabric\UserActor\obj\Release\netcoreapp2.2\win7-x64\UserActor.csprojAssemblyReference.cache
+C:\Users\zotadic\Documents\My Service Fabric\UserActor\obj\Release\netcoreapp2.2\win7-x64\UserActor.csproj.CoreCompileInputs.cache
+C:\Users\zotadic\Documents\My Service Fabric\UserActor\obj\Release\netcoreapp2.2\win7-x64\UserActor.AssemblyInfoInputs.cache
+C:\Users\zotadic\Documents\My Service Fabric\UserActor\obj\Release\netcoreapp2.2\win7-x64\UserActor.AssemblyInfo.cs
+C:\Users\zotadic\Documents\My Service Fabric\UserActor\obj\Release\netcoreapp2.2\win7-x64\UserActor.csproj.CopyComplete
+C:\Users\zotadic\Documents\My Service Fabric\UserActor\obj\Release\netcoreapp2.2\win7-x64\UserActor.dll
+C:\Users\zotadic\Documents\My Service Fabric\UserActor\obj\Release\netcoreapp2.2\win7-x64\UserActor.pdb

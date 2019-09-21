@@ -1,0 +1,9 @@
+C:\Users\zotadic\Documents\My Service Fabric\UserActor.Interfaces\bin\Debug\netcoreapp2.2\win7-x64\UserActor.Interfaces.deps.json
+C:\Users\zotadic\Documents\My Service Fabric\UserActor.Interfaces\bin\Debug\netcoreapp2.2\win7-x64\UserActor.Interfaces.dll
+C:\Users\zotadic\Documents\My Service Fabric\UserActor.Interfaces\bin\Debug\netcoreapp2.2\win7-x64\UserActor.Interfaces.pdb
+C:\Users\zotadic\Documents\My Service Fabric\UserActor.Interfaces\obj\Debug\netcoreapp2.2\win7-x64\UserActor.Interfaces.csprojAssemblyReference.cache
+C:\Users\zotadic\Documents\My Service Fabric\UserActor.Interfaces\obj\Debug\netcoreapp2.2\win7-x64\UserActor.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\zotadic\Documents\My Service Fabric\UserActor.Interfaces\obj\Debug\netcoreapp2.2\win7-x64\UserActor.Interfaces.AssemblyInfoInputs.cache
+C:\Users\zotadic\Documents\My Service Fabric\UserActor.Interfaces\obj\Debug\netcoreapp2.2\win7-x64\UserActor.Interfaces.AssemblyInfo.cs
+C:\Users\zotadic\Documents\My Service Fabric\UserActor.Interfaces\obj\Debug\netcoreapp2.2\win7-x64\UserActor.Interfaces.dll
+C:\Users\zotadic\Documents\My Service Fabric\UserActor.Interfaces\obj\Debug\netcoreapp2.2\win7-x64\UserActor.Interfaces.pdb
